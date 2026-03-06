@@ -1,0 +1,12 @@
+{
+  "rewrites": [
+    {
+      "source": "/aigc-component-3D-1/:path*",
+      "destination": "/:path*"
+    },
+    {
+      "source": "/aigc-component-3D-1",
+      "destination": "/index.html"
+    }
+  ]
+}
