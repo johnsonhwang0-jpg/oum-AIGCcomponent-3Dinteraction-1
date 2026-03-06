@@ -1,0 +1,5 @@
+{
+  "name": "Vernier Caliper Lab",
+  "description": "A 3D interactive Vernier Caliper simulation for educational purposes. Learn parts, practice measurement, and understand reading scales.",
+  "requestFramePermissions": []
+}
